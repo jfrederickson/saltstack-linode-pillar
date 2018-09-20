@@ -4,6 +4,8 @@ An external pillar module that using the Linode API for tag grouping.
 
 ## Installation
 
+*NOTE: This will not work until https://github.com/linode/linode_api4-python/pull/140 is merged*
+
 ```
 pip install -r requirements.txt
 python setup.py install
