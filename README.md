@@ -1,6 +1,6 @@
 # Linode SaltStack External Pillar Module
 
-An external pillar module that using the Linode API for tag grouping.
+An external pillar module using the Linode API for tag matching.
 
 ## Installation
 
